@@ -7,7 +7,6 @@ bin
 .metadata
 .classpath
 .project
-run
 
 # idea
 *.ipr
@@ -15,11 +14,3 @@ run
 *.iml
 .idea
 *.DS_Store
-
-# gradle
-build
-.gradle
-
-# sorus
-launch.bat
-temp
